@@ -1,0 +1,12 @@
+{
+  "name": "Compliance",
+  "description": "Data App dashboard for compliance",
+  "entries": [
+    {
+      "name": "DigiFlight - Compliance",
+      "path": "digi-flight.json",
+      "description": "A description for this template",
+      "integrations": ["IBM", "Common"]
+    }
+]
+}

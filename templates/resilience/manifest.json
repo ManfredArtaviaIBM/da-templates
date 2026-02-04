@@ -1,0 +1,12 @@
+{
+  "name": "resilience",
+  "description": "Data App dashboard for resilience",
+  "entries": [
+    {
+      "name": "DigiFlight - resilience",
+      "path": "digi-flight.json",
+      "description": "A description for this template",
+      "integrations": ["IBM", "Common"]
+    }
+]
+}
