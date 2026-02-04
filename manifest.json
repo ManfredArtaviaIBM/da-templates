@@ -4,15 +4,15 @@
   "categories": [
     {
       "name": "Compliance",
-      "path": "Compliance"
+      "path": "compliance"
     },
     {
       "name": "Resilience",
-      "path": "Resilience"
+      "path": "resilience"
     },
     {
       "name": "Vulnerability",
-      "path": "Vulnerability"
+      "path": "vulnerability"
     }
   ]
 }
