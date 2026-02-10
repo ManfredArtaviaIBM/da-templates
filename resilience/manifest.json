@@ -8,7 +8,8 @@
         "Common"
       ],
       "name": "DigiFlight - resilience",
-      "path": "digi-flight.json"
+      "path": "digi-flight.json",
+      "thumbnail": "thumbnail.png"
     }
   ],
   "name": "resilience"
