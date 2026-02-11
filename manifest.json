@@ -13,6 +13,10 @@
     {
       "name": "Vulnerability",
       "path": "vulnerability"
+    },
+    {
+      "name": "Observability",
+      "path": "observability"
     }
   ]
 }
